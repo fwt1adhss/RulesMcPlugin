@@ -1,1 +1,37 @@
+# RulesGUI Configuration
+gui:
+  title: "<!i>Rules"
+  size: 27
 
+  client:
+    slot: 10
+    material: "KNOWLEDGE_BOOK"
+    name: "<!i><#f97603><b>CLIENT RULES"
+    id: 90532523
+    lore:
+      - "<!i><#f97603>⏺ <white>No Hacked Clients"
+      - "<!i><#f97603>⏺ <white>No Movement Mods"
+      - "<!i><#f97603>⏺ <white>No Inventory Mods"
+      - "<!i><#f97603>⏺ <white>No Health Indicators"
+      - "<!i><#f97603>⏺ <white>No Radar"
+      - "<!i><#f97603>⏺ <white>No Freecam"
+      - "<!i><#f97603>⏺ <white>No Auto Place"
+      - "<!i><#f97603>⏺ <white>No Harmful Macros or Scripts"
+
+  general:
+    slot: 13
+    material: "KNOWLEDGE_BOOK"
+    name: "<!i><#f97603><b>GENERAL RULES"
+    id: 90532524
+    lore:
+      - "<!i><#f97603>⏺ <white>No Cheating"
+      - "<!i><#f97603>⏺ <white>No Duplicating"
+      - "<!i><#f97603>⏺ <white>Do Not Abuse Server Bugs"
+      - "<!i><#f97603>⏺ <white>No IRL Trading"
+      - "<!i><#f97603>⏺ <white>Do Not Use More Than 3 Alt Accounts"
+      - "<!i><#f97603>⏺ <white>No Mute Evasion"
+      - "<!i><#f97603>⏺ <white>No Ban Evasion"
+      - "<!i><#f97603>⏺ <white>No Doxing, Swatting or DDosing"
+      - "<!i><#f97603>⏺ <white>Do Not Lie To Staff Members"
+      - "<!i><#f97603>⏺ <white>Do Not Use Unfair Resource Packs"
+      - "<!i><#f97603>⏺ <white>Must Report Cheaters & Bugs at /discord"
