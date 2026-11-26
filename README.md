@@ -1,2 +1,1 @@
-# RulesMcPlugin
-# 📜 Rules GUI  A simple rules menu! - 📖 Client Rules - ⚖️ General Rules - 🖥️ Easy-to-use GUI  
+🔗 Lightweight & customizable Minecraft Rules plugin. ✨ Easy configuration 💬 Custom /rules command 🎨 Custom messages & colors ⚙️ Simple setup 🚀 Optimized performance
